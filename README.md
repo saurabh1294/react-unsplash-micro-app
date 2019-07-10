@@ -1,2 +1,8 @@
-# react-unsplash-micro-app
-A small react micro app using unsplash API
+## A simple react demo using unsplash API
+
+## Instructions
+
+Clone this repo
+Download and install nodejs from https://nodejs.org
+run npm install
+run npm start
